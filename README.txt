@@ -1,1 +1,3 @@
-My Klipper configs for FLSUN SR
+FLSUN SR personal configs, using:
+  - Klipper
+  - Superslicer
